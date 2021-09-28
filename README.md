@@ -30,7 +30,7 @@ El acto de sembrar crea una nueva planta, con estas características:
 
 
 **Atención**  
-queda librado a cada quien si se permite, o no, que haya más de una planta en una misma posición. 
+Queda librado a cada quien si se permite, o no, que haya más de una planta en una misma posición. 
 Vale cuidarse de no hacerlo al principio, y agregar la validación más adelante.  
 _OJO_ si se pone en la misma posición p.ej. dos plantas de maíz, entonces al regarse se van a regar las dos, al cosecharse se van a cosechar las dos, etc, pero se va a mostrar una sola imagen.
 
@@ -65,7 +65,7 @@ Caso contrario, no se hace nada.
 Si hay varias plantas en el mismo lugar, puede ser que algunas estén para cosechar y otras no. OJO con eso.
 
 **TIP**  
-Buscar la docentación de Wollok game en http://www.wollok.org/documentacion/wollokdoc/ 
+Buscar la documentación de Wollok game en http://www.wollok.org/documentacion/wollokdoc/ 
 para saber cómo obtener los objetos que están en la misma posición que Héctor.
 Ojo que al hacer eso, entre los objetos que encuentren va a estar el propio Héctor.
 
